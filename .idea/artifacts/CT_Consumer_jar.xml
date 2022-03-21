@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="CT_Consumer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CT_Consumer_jar</output-path>
+    <root id="root">
+      <element id="archive" name="CT_Consumer.jar">
+        <element id="module-output" name="CT_Consumer" />
+      </element>
+      <element id="library" level="module" name="Maven: jdk.tools:jdk.tools:1.6" module-name="CT_Consumer" />
+    </root>
+  </artifact>
+</component>
